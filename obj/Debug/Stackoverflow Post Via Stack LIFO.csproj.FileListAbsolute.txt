@@ -1,0 +1,11 @@
+C:\Users\MamadMTI\source\repos\Stackoverflow Post Via Stack LIFO\Stackoverflow Post Via Stack LIFO\bin\Debug\Stackoverflow Post Via Stack LIFO.exe.config
+C:\Users\MamadMTI\source\repos\Stackoverflow Post Via Stack LIFO\Stackoverflow Post Via Stack LIFO\bin\Debug\Stackoverflow Post Via Stack LIFO.exe
+C:\Users\MamadMTI\source\repos\Stackoverflow Post Via Stack LIFO\Stackoverflow Post Via Stack LIFO\bin\Debug\Stackoverflow Post Via Stack LIFO.pdb
+C:\Users\MamadMTI\source\repos\Stackoverflow Post Via Stack LIFO\Stackoverflow Post Via Stack LIFO\obj\Debug\Stackoverflow Post Via Stack LIFO.csproj.AssemblyReference.cache
+C:\Users\MamadMTI\source\repos\Stackoverflow Post Via Stack LIFO\Stackoverflow Post Via Stack LIFO\obj\Debug\Stackoverflow_Post_Via_Stack_LIFO.Form1.resources
+C:\Users\MamadMTI\source\repos\Stackoverflow Post Via Stack LIFO\Stackoverflow Post Via Stack LIFO\obj\Debug\Stackoverflow_Post_Via_Stack_LIFO.Properties.Resources.resources
+C:\Users\MamadMTI\source\repos\Stackoverflow Post Via Stack LIFO\Stackoverflow Post Via Stack LIFO\obj\Debug\Stackoverflow Post Via Stack LIFO.csproj.GenerateResource.cache
+C:\Users\MamadMTI\source\repos\Stackoverflow Post Via Stack LIFO\Stackoverflow Post Via Stack LIFO\obj\Debug\Stackoverflow Post Via Stack LIFO.csproj.CoreCompileInputs.cache
+C:\Users\MamadMTI\source\repos\Stackoverflow Post Via Stack LIFO\Stackoverflow Post Via Stack LIFO\obj\Debug\Stackoverflow Post Via Stack LIFO.exe
+C:\Users\MamadMTI\source\repos\Stackoverflow Post Via Stack LIFO\Stackoverflow Post Via Stack LIFO\obj\Debug\Stackoverflow Post Via Stack LIFO.pdb
+C:\Users\MamadMTI\source\repos\Stackoverflow Post Via Stack LIFO\Stackoverflow Post Via Stack LIFO\obj\Debug\Stackoverflow_Post_Via_Stack_LIFO.Form2.resources
